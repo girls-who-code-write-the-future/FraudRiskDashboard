@@ -1,4 +1,3 @@
-HEAD
 # FraudRiskDashboard
 An interactive dashboard built in Tableau, analyzing patterns and risks of fraudulent transactions using financial transaction data.  
 
@@ -74,5 +73,3 @@ To reproduce the dashboard locally:
 Created by **Olga Skóra**  
 🎓 Junior Data Analyst | [LinkedIn](https://www.linkedin.com/in/olga-sk%C3%B3ra/)  
 📅 2025 Portfolio Project
-
-cac6f56 (Add final README with live dashboard and preview)
